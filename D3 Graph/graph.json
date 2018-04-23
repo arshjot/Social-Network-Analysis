@@ -1,0 +1,4056 @@
+{
+    "directed": false, 
+    "graph": {}, 
+    "nodes": [
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.13060761533242876, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07087748678"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07070949771"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.21462165551839466, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07252637450"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18110595014111008, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07766286713"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07014881393"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1495847902097902, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07142349355"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07652081795"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07728163425"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07690019813"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15291153693407467, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01391969736"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07372199429"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07882845059"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12885918674698793, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01531394363"
+        }, 
+        {
+            "betweenness": 0.0011335784313725495, 
+            "closeness": 0.21582469170403587, 
+            "Network": "Off-net", 
+            "degree": 3, 
+            "id": "07720520621"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07850316631"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07889639409"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "192"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.13060761533242876, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07211022593"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07888035865"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01336597966"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01038609373"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17792571626617373, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07769571254"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07101043621"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15626268262987011, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07758045718"
+        }, 
+        {
+            "betweenness": 0.013511029411764706, 
+            "closeness": 0.18179001416430596, 
+            "Network": "On-net", 
+            "degree": 3, 
+            "id": "07541486388"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07691640598"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07230262224"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07559466613"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07999658534"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07153234302"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01516183092"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01700203063"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07468092759"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07073122639"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07693953679"
+        }, 
+        {
+            "betweenness": 0.09098958333333333, 
+            "closeness": 0.19193980558325024, 
+            "Network": "On-net", 
+            "degree": 18, 
+            "id": "07389444649"
+        }, 
+        {
+            "betweenness": 0.007562295751633986, 
+            "closeness": 0.1540125, 
+            "Network": "On-net", 
+            "degree": 3, 
+            "id": "07197268544"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07796567867"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07942503106"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07030181762"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07937523062"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "14596616114769"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07520192003"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07318663135"
+        }, 
+        {
+            "betweenness": 0.015332460635769445, 
+            "closeness": 0.2037202380952381, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07126482937"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07691128029"
+        }, 
+        {
+            "betweenness": 0.04610906862745098, 
+            "closeness": 0.1809357377819549, 
+            "Network": "Off-net", 
+            "degree": 3, 
+            "id": "07167454533"
+        }, 
+        {
+            "betweenness": 0.0011029411764705882, 
+            "closeness": 0.03515625, 
+            "Network": "On-net", 
+            "degree": 9, 
+            "id": "07651896055"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07800593022"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07386471738"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07341964863"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17343750000000002, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07246826358"
+        }, 
+        {
+            "betweenness": 0.11010152072192504, 
+            "closeness": 0.1904209940652819, 
+            "Network": "On-net", 
+            "degree": 11, 
+            "id": "07817341678"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07813180401"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07784908044"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18110595014111008, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07209670163"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07947659916"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01067580892"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15626268262987011, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07394508492"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01808779834"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01815280008"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07991647694"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15626268262987011, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07587572122"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07106449151"
+        }, 
+        {
+            "betweenness": 0.055957646316102144, 
+            "closeness": 0.2243771853146853, 
+            "Network": "Off-net", 
+            "degree": 3, 
+            "id": "07914559382"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07285735981"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07319756631"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01770637968"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07340224143"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.13087398028552005, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "455"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07147833775"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07316823120"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15291153693407467, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07743039441"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07681545444"
+        }, 
+        {
+            "betweenness": 0.09834558823529412, 
+            "closeness": 0.1521862648221344, 
+            "Network": "On-net", 
+            "degree": 16, 
+            "id": "07086312446"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07923657462"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12707301980198019, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07351039125"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01237303110"
+        }, 
+        {
+            "betweenness": 0.11209475267379684, 
+            "closeness": 0.22359538327526132, 
+            "Network": "On-net", 
+            "degree": 7, 
+            "id": "07839321359"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12707301980198019, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07978424233"
+        }, 
+        {
+            "betweenness": 0.015332460635769445, 
+            "closeness": 0.2037202380952381, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07973185812"
+        }, 
+        {
+            "betweenness": 0.013511029411764706, 
+            "closeness": 0.14877559891808345, 
+            "Network": "On-net", 
+            "degree": 3, 
+            "id": "07690700998"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07150470306"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07178783312"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07898649088"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01626965709"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07304765579"
+        }, 
+        {
+            "betweenness": 0.005671977124183005, 
+            "closeness": 0.1732813906390639, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07442541160"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07414655298"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07806772874"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15626268262987011, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07279151148"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01504084403"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07422847132"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07441520130"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.21462165551839466, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07877889057"
+        }, 
+        {
+            "betweenness": 0.00850796568627451, 
+            "closeness": 0.18213398770104067, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "452"
+        }, 
+        {
+            "betweenness": 0.013511029411764706, 
+            "closeness": 0.14877559891808345, 
+            "Network": "On-net", 
+            "degree": 3, 
+            "id": "07195393761"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07529309344"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.14866071428571428, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01265321865"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07812016647"
+        }, 
+        {
+            "betweenness": 0.07284262663398693, 
+            "closeness": 0.18546784682080925, 
+            "Network": "On-net", 
+            "degree": 11, 
+            "id": "07981267897"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07176826091"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15664412123677784, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07588304495"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17343750000000002, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07896182404"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07868956667"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.21462165551839466, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07118310788"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07726236007"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07803819471"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07859789778"
+        }, 
+        {
+            "betweenness": 0.020481004901960784, 
+            "closeness": 0.18059627110694182, 
+            "Network": "On-net", 
+            "degree": 7, 
+            "id": "07607124303"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07032536344"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "08142316700"
+        }, 
+        {
+            "betweenness": 0.2312542242275697, 
+            "closeness": 0.25498758278145695, 
+            "Network": "Off-net", 
+            "degree": 4, 
+            "id": "01546219380"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15291153693407467, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07156849982"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07650363961"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07599866773"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07374497507"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.21462165551839466, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07073084322"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15626268262987011, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "208"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07266516764"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07066875066"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07306578171"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.005208333333333333, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07151178213"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07969251842"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01148418083"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07944968233"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17858592300556586, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07651268820"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17858592300556586, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07290401485"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07242327599"
+        }, 
+        {
+            "betweenness": 0.11832678810160437, 
+            "closeness": 0.17925104748603352, 
+            "Network": "On-net", 
+            "degree": 7, 
+            "id": "07610039694"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07092922328"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07495014469"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07682111000"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.16056349040867388, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07869748073"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12885918674698793, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01995264612"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07394530094"
+        }, 
+        {
+            "betweenness": 0.022714971405228754, 
+            "closeness": 0.21390625, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "127"
+        }, 
+        {
+            "betweenness": 0.16127479495586108, 
+            "closeness": 0.24937257124352333, 
+            "Network": "On-net", 
+            "degree": 25, 
+            "id": "07102745960"
+        }, 
+        {
+            "betweenness": 0.0871689783868092, 
+            "closeness": 0.20286156480505796, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07309001273"
+        }, 
+        {
+            "betweenness": 0.30245098039215684, 
+            "closeness": 0.2719147245762712, 
+            "Network": "On-net", 
+            "degree": 29, 
+            "id": "07456622368"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07869451817"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07008724758"
+        }, 
+        {
+            "betweenness": 0.21986890968508607, 
+            "closeness": 0.22333599187935033, 
+            "Network": "On-net", 
+            "degree": 17, 
+            "id": "07681546436"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07141993741"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07909583195"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01577824375"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07465362856"
+        }, 
+        {
+            "betweenness": 0.028069852941176476, 
+            "closeness": 0.21655300899887514, 
+            "Network": "On-net", 
+            "degree": 8, 
+            "id": "07304637408"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12707301980198019, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07136578492"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15626268262987011, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01887771702"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07873361203"
+        }, 
+        {
+            "betweenness": 0.005821078431372549, 
+            "closeness": 0.078125, 
+            "Network": "On-net", 
+            "degree": 20, 
+            "id": "07408255044"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07600100253"
+        }, 
+        {
+            "betweenness": 0.04618060197563877, 
+            "closeness": 0.1909877232142857, 
+            "Network": "On-net", 
+            "degree": 5, 
+            "id": "07641036117"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07669640510"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12885918674698793, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07028004429"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07543111077"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07554240016"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.13060761533242876, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07294397927"
+        }, 
+        {
+            "betweenness": 0.040165441176470584, 
+            "closeness": 0.15122987038491753, 
+            "Network": "On-net", 
+            "degree": 7, 
+            "id": "07806391587"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.14866071428571428, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01117510494"
+        }, 
+        {
+            "betweenness": 0.177359068627451, 
+            "closeness": 0.22179219470046083, 
+            "Network": "On-net", 
+            "degree": 23, 
+            "id": "07166594208"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07599499513"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01954651441"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15626268262987011, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07771486427"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07339031526"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07784386018"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07463040620"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.21155563186813187, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07476886744"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07347504875"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1797531512605042, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07083242077"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07289049655"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.21462165551839466, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07775682498"
+        }, 
+        {
+            "betweenness": 0.05346516636957818, 
+            "closeness": 0.1923233016983017, 
+            "Network": "Off-net", 
+            "degree": 4, 
+            "id": "07541477895"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15291153693407467, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01666472054"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07255949861"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07277062902"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07500820776"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07825704459"
+        }, 
+        {
+            "betweenness": 0.08331188725490196, 
+            "closeness": 0.21486118861607142, 
+            "Network": "On-net", 
+            "degree": 13, 
+            "id": "07122915122"
+        }, 
+        {
+            "betweenness": 0.3965010862299463, 
+            "closeness": 0.2738486842105263, 
+            "Network": "Off-net", 
+            "degree": 6, 
+            "id": "9"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "On-net", 
+            "degree": 1, 
+            "id": "07640835719"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07187432175"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07737368693"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07523597853"
+        }, 
+        {
+            "betweenness": 0.13652457479203803, 
+            "closeness": 0.22864088479809974, 
+            "Network": "On-net", 
+            "degree": 8, 
+            "id": "07110730864"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07595793658"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07577423566"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15040283203125, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01723857377"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07068842120"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07024591762"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07393675257"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.005208333333333333, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07793231225"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1495847902097902, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "2327"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07225912655"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07564645771"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07710693107"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07331532487"
+        }, 
+        {
+            "betweenness": 0.02022058823529412, 
+            "closeness": 0.15364375498802874, 
+            "Network": "On-net", 
+            "degree": 4, 
+            "id": "07784425582"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07802171020"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01944462488"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07451443659"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17343750000000002, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07318250386"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07455387017"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07527522829"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12885918674698793, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07014147742"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07341734573"
+        }, 
+        {
+            "betweenness": 0.004892769607843137, 
+            "closeness": 0.18475587811900193, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07806980885"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12885918674698793, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07909763438"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15291153693407467, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07927069088"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1495847902097902, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "08186839469"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01709610048"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07837582750"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15291153693407467, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07115126128"
+        }, 
+        {
+            "betweenness": 0.03998161764705882, 
+            "closeness": 0.17875174094707522, 
+            "Network": "Off-net", 
+            "degree": 3, 
+            "id": "044"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "043"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07979079238"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1723506042972247, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07365028429"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07343591200"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "08704500768"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15291153693407467, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07893254571"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.21155563186813187, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07341891255"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15040283203125, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07554796841"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07939438676"
+        }, 
+        {
+            "betweenness": 3.0637254901960784e-05, 
+            "closeness": 0.0078125, 
+            "Network": "On-net", 
+            "degree": 2, 
+            "id": "07375968743"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07219105911"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07008955236"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07400578851"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07302487146"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07220374233"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18110595014111008, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07656979052"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.04006410256410256, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07357424599"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07242311619"
+        }, 
+        {
+            "betweenness": 0.009168198529411765, 
+            "closeness": 0.199705005186722, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "07492710736"
+        }, 
+        {
+            "betweenness": 0.08739568744164333, 
+            "closeness": 0.20350488900634248, 
+            "Network": "On-net", 
+            "degree": 16, 
+            "id": "07946912731"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07242035483"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1938727341389728, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "14252905085643"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12707301980198019, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07062825182"
+        }, 
+        {
+            "betweenness": 0.021099041889483073, 
+            "closeness": 0.18745435735150925, 
+            "Network": "Off-net", 
+            "degree": 2, 
+            "id": "157"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07830667924"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01100270691"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07870978780"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07262677601"
+        }, 
+        {
+            "betweenness": 0.11292655414438507, 
+            "closeness": 0.2275598404255319, 
+            "Network": "On-net", 
+            "degree": 17, 
+            "id": "07163185791"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18110595014111008, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07703931434"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01022354521"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17776142659279778, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07916844496"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.018612132352941176, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01627552401"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07654025486"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.2072288751345533, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01725600677"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.15728400735294118, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07519713094"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12955291049798115, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01304635046"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07189233361"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.18042701499531397, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07719615931"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.17678202479338845, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07173351484"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.12885918674698793, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "07454240930"
+        }, 
+        {
+            "betweenness": 0.0, 
+            "closeness": 0.1649662596401028, 
+            "Network": "Off-net", 
+            "degree": 1, 
+            "id": "01705278277"
+        }
+    ], 
+    "links": [
+        {
+            "sent_messages_length": 38.0, 
+            "target": 198, 
+            "weight": 0.39772635406906554, 
+            "source": 0, 
+            "sent_messages_count": 2.0, 
+            "call_count": 25
+        }, 
+        {
+            "sent_messages_length": 7109.0, 
+            "target": 137, 
+            "weight": 0.1288514218238733, 
+            "source": 1, 
+            "sent_messages_count": 96.0, 
+            "call_count": 12
+        }, 
+        {
+            "sent_messages_length": 97.0, 
+            "target": 137, 
+            "weight": 0.07857702313536781, 
+            "source": 2, 
+            "sent_messages_count": 3.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 5050.0, 
+            "target": 139, 
+            "weight": 4.388396401076656, 
+            "source": 2, 
+            "sent_messages_count": 130.0, 
+            "call_count": 401
+        }, 
+        {
+            "sent_messages_length": 147.0, 
+            "target": 185, 
+            "weight": 0.046550369156023584, 
+            "source": 3, 
+            "sent_messages_count": 2.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 47, 
+            "weight": 0.06554291977168121, 
+            "source": 4, 
+            "sent_messages_count": null, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 79.0, 
+            "target": 109, 
+            "weight": 0.046922772109271774, 
+            "source": 5, 
+            "sent_messages_count": 1.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 2269.0, 
+            "target": 234, 
+            "weight": 0.4997647632590692, 
+            "source": 6, 
+            "sent_messages_count": 37.0, 
+            "call_count": 22
+        }, 
+        {
+            "sent_messages_length": 25.0, 
+            "target": 74, 
+            "weight": 0.1713053584941668, 
+            "source": 7, 
+            "sent_messages_count": 2.0, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 74, 
+            "weight": 0.24578594914380453, 
+            "source": 8, 
+            "sent_messages_count": null, 
+            "call_count": 17
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 100, 
+            "weight": 0.23796548712559257, 
+            "source": 9, 
+            "sent_messages_count": null, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": 772.0, 
+            "target": 139, 
+            "weight": 0.05623284594047649, 
+            "source": 10, 
+            "sent_messages_count": 21.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 49.0, 
+            "target": 161, 
+            "weight": 0.06554291977168121, 
+            "source": 11, 
+            "sent_messages_count": 2.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 159, 
+            "weight": 0.09794197670427363, 
+            "source": 12, 
+            "sent_messages_count": null, 
+            "call_count": 16
+        }, 
+        {
+            "sent_messages_length": 5709.0, 
+            "target": 137, 
+            "weight": 0.1884358943435835, 
+            "source": 13, 
+            "sent_messages_count": 110.0, 
+            "call_count": 20
+        }, 
+        {
+            "sent_messages_length": 15064.0, 
+            "target": 139, 
+            "weight": 0.6684633010804987, 
+            "source": 13, 
+            "sent_messages_count": 324.0, 
+            "call_count": 87
+        }, 
+        {
+            "sent_messages_length": 2261.0, 
+            "target": 147, 
+            "weight": 0.5559976091995457, 
+            "source": 13, 
+            "sent_messages_count": 87.0, 
+            "call_count": 24
+        }, 
+        {
+            "sent_messages_length": 458.0, 
+            "target": 139, 
+            "weight": 0.1355546749823407, 
+            "source": 14, 
+            "sent_messages_count": 10.0, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": 2258.0, 
+            "target": 234, 
+            "weight": 0.21264208630471573, 
+            "source": 15, 
+            "sent_messages_count": 43.0, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 139, 
+            "weight": 0.2074284449592411, 
+            "source": 16, 
+            "sent_messages_count": null, 
+            "call_count": 15
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 198, 
+            "weight": 0.15864365808372838, 
+            "source": 17, 
+            "sent_messages_count": null, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.10092120033025913, 
+            "source": 18, 
+            "sent_messages_count": null, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 161, 
+            "weight": 0.2677577233854477, 
+            "source": 19, 
+            "sent_messages_count": null, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 137, 
+            "weight": 0.1117208859744566, 
+            "source": 20, 
+            "sent_messages_count": null, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 2931.0, 
+            "target": 78, 
+            "weight": 0.05958447251971019, 
+            "source": 21, 
+            "sent_messages_count": 106.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 90.0, 
+            "target": 139, 
+            "weight": 0.09421794717179174, 
+            "source": 22, 
+            "sent_messages_count": 3.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 133.0, 
+            "target": 52, 
+            "weight": 0.18247744709161245, 
+            "source": 23, 
+            "sent_messages_count": 7.0, 
+            "call_count": 15
+        }, 
+        {
+            "sent_messages_length": 491.0, 
+            "target": 222, 
+            "weight": 0.06963935225741129, 
+            "source": 24, 
+            "sent_messages_count": 20.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 18971.0, 
+            "target": 185, 
+            "weight": 0.09719717079777725, 
+            "source": 24, 
+            "sent_messages_count": 463.0, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 188, 
+            "weight": 0.15640924036423925, 
+            "source": 24, 
+            "sent_messages_count": null, 
+            "call_count": 16
+        }, 
+        {
+            "sent_messages_length": 12719.0, 
+            "target": 74, 
+            "weight": 44.9430780098044, 
+            "source": 25, 
+            "sent_messages_count": 371.0, 
+            "call_count": 980
+        }, 
+        {
+            "sent_messages_length": 219.0, 
+            "target": 243, 
+            "weight": 0.7135240584235295, 
+            "source": 26, 
+            "sent_messages_count": 7.0, 
+            "call_count": 42
+        }, 
+        {
+            "sent_messages_length": 187.0, 
+            "target": 151, 
+            "weight": 0.06926694930416309, 
+            "source": 27, 
+            "sent_messages_count": 8.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 915.0, 
+            "target": 161, 
+            "weight": 4.37722431247921, 
+            "source": 28, 
+            "sent_messages_count": 28.0, 
+            "call_count": 18
+        }, 
+        {
+            "sent_messages_length": 4008.0, 
+            "target": 137, 
+            "weight": 0.09347314126529536, 
+            "source": 29, 
+            "sent_messages_count": 91.0, 
+            "call_count": 13
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.14002351042131894, 
+            "source": 30, 
+            "sent_messages_count": null, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 243, 
+            "weight": 0.07708741132237505, 
+            "source": 31, 
+            "sent_messages_count": null, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 95.0, 
+            "target": 234, 
+            "weight": 0.10948646825496747, 
+            "source": 32, 
+            "sent_messages_count": 2.0, 
+            "call_count": 13
+        }, 
+        {
+            "sent_messages_length": 7.0, 
+            "target": 161, 
+            "weight": 0.8688160899280242, 
+            "source": 33, 
+            "sent_messages_count": 1.0, 
+            "call_count": 45
+        }, 
+        {
+            "sent_messages_length": 384.0, 
+            "target": 151, 
+            "weight": 0.9607996193803268, 
+            "source": 34, 
+            "sent_messages_count": 17.0, 
+            "call_count": 41
+        }, 
+        {
+            "sent_messages_length": 116.0, 
+            "target": 248, 
+            "weight": 0.09421794717179174, 
+            "source": 35, 
+            "sent_messages_count": 1.0, 
+            "call_count": 12
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 67, 
+            "weight": 0.05995687547295838, 
+            "source": 35, 
+            "sent_messages_count": null, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 238, 
+            "weight": 0.06926694930416309, 
+            "source": 35, 
+            "sent_messages_count": null, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 4343.0, 
+            "target": 207, 
+            "weight": 0.2867502740011053, 
+            "source": 35, 
+            "sent_messages_count": 84.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 173.0, 
+            "target": 156, 
+            "weight": 0.3899058920508536, 
+            "source": 35, 
+            "sent_messages_count": 3.0, 
+            "call_count": 22
+        }, 
+        {
+            "sent_messages_length": 5723.0, 
+            "target": 218, 
+            "weight": 0.08453547038733883, 
+            "source": 35, 
+            "sent_messages_count": 106.0, 
+            "call_count": 20
+        }, 
+        {
+            "sent_messages_length": 2574.0, 
+            "target": 250, 
+            "weight": 1.0550175665521186, 
+            "source": 35, 
+            "sent_messages_count": 42.0, 
+            "call_count": 53
+        }, 
+        {
+            "sent_messages_length": 4279.0, 
+            "target": 229, 
+            "weight": 5.372657406511618, 
+            "source": 35, 
+            "sent_messages_count": 44.0, 
+            "call_count": 197
+        }, 
+        {
+            "sent_messages_length": 140.0, 
+            "target": 175, 
+            "weight": 0.6863386428364118, 
+            "source": 35, 
+            "sent_messages_count": 3.0, 
+            "call_count": 20
+        }, 
+        {
+            "sent_messages_length": 4764.0, 
+            "target": 44, 
+            "weight": 3.1222263600328137, 
+            "source": 35, 
+            "sent_messages_count": 78.0, 
+            "call_count": 90
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 83, 
+            "weight": 0.5712661302827214, 
+            "source": 35, 
+            "sent_messages_count": null, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 971.0, 
+            "target": 232, 
+            "weight": 0.7068208052650621, 
+            "source": 35, 
+            "sent_messages_count": 18.0, 
+            "call_count": 53
+        }, 
+        {
+            "sent_messages_length": 807.0, 
+            "target": 101, 
+            "weight": 0.9950606910791602, 
+            "source": 35, 
+            "sent_messages_count": 20.0, 
+            "call_count": 91
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 240, 
+            "weight": 0.27744020016990056, 
+            "source": 35, 
+            "sent_messages_count": null, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 80, 
+            "weight": 0.2725989617776741, 
+            "source": 35, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 141.0, 
+            "target": 45, 
+            "weight": 0.18620147662409434, 
+            "source": 35, 
+            "sent_messages_count": 4.0, 
+            "call_count": 17
+        }, 
+        {
+            "sent_messages_length": 89.0, 
+            "target": 75, 
+            "weight": 0.04729517506251996, 
+            "source": 35, 
+            "sent_messages_count": 1.0, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 64, 
+            "weight": 0.19141511796956898, 
+            "source": 35, 
+            "sent_messages_count": null, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 95, 
+            "weight": 0.2078008479124893, 
+            "source": 36, 
+            "sent_messages_count": null, 
+            "call_count": 12
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 69, 
+            "weight": 0.4420423055056, 
+            "source": 36, 
+            "sent_messages_count": null, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": 328.0, 
+            "target": 87, 
+            "weight": 0.6260093644102052, 
+            "source": 36, 
+            "sent_messages_count": 7.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 2303.0, 
+            "target": 142, 
+            "weight": 0.10092120033025913, 
+            "source": 37, 
+            "sent_messages_count": 56.0, 
+            "call_count": 25
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 74, 
+            "weight": 0.06517051681843301, 
+            "source": 38, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.9935710792661674, 
+            "source": 39, 
+            "sent_messages_count": null, 
+            "call_count": 30
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 151, 
+            "weight": 0.13741668974858162, 
+            "source": 40, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 139, 
+            "weight": 0.21264208630471573, 
+            "source": 41, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 10181.0, 
+            "target": 137, 
+            "weight": 1.6195804436763725, 
+            "source": 42, 
+            "sent_messages_count": 123.0, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": 4992.0, 
+            "target": 243, 
+            "weight": 0.11879654208617219, 
+            "source": 43, 
+            "sent_messages_count": 125.0, 
+            "call_count": 13
+        }, 
+        {
+            "sent_messages_length": 5065.0, 
+            "target": 137, 
+            "weight": 0.1478439724395309, 
+            "source": 44, 
+            "sent_messages_count": 71.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 285.0, 
+            "target": 109, 
+            "weight": 0.18582907367084617, 
+            "source": 46, 
+            "sent_messages_count": 5.0, 
+            "call_count": 13
+        }, 
+        {
+            "sent_messages_length": 13022.0, 
+            "target": 78, 
+            "weight": 0.08006663494836057, 
+            "source": 46, 
+            "sent_messages_count": 290.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 11239.0, 
+            "target": 159, 
+            "weight": 0.15640924036423925, 
+            "source": 46, 
+            "sent_messages_count": 168.0, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 204, 
+            "weight": 0.17353977621365593, 
+            "source": 47, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 83.0, 
+            "target": 181, 
+            "weight": 0.1418855251875599, 
+            "source": 47, 
+            "sent_messages_count": 8.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 130.0, 
+            "target": 239, 
+            "weight": 1.7905133992172912, 
+            "source": 47, 
+            "sent_messages_count": 9.0, 
+            "call_count": 34
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 223, 
+            "weight": 0.14411994290704902, 
+            "source": 47, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 61, 
+            "weight": 0.11321049778744936, 
+            "source": 47, 
+            "sent_messages_count": null, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 247, 
+            "weight": 0.18582907367084617, 
+            "source": 47, 
+            "sent_messages_count": null, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 245, 
+            "weight": 0.06219129319244751, 
+            "source": 47, 
+            "sent_messages_count": null, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 575.0, 
+            "target": 186, 
+            "weight": 0.1351822720290925, 
+            "source": 47, 
+            "sent_messages_count": 34.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 1122.0, 
+            "target": 234, 
+            "weight": 0.05325362231449098, 
+            "source": 48, 
+            "sent_messages_count": 21.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 144.0, 
+            "target": 151, 
+            "weight": 0.1351822720290925, 
+            "source": 49, 
+            "sent_messages_count": 7.0, 
+            "call_count": 14
+        }, 
+        {
+            "sent_messages_length": 1508.0, 
+            "target": 161, 
+            "weight": 0.19141511796956898, 
+            "source": 50, 
+            "sent_messages_count": 45.0, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": 361.0, 
+            "target": 147, 
+            "weight": 0.1549196285512465, 
+            "source": 51, 
+            "sent_messages_count": 11.0, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": 86.0, 
+            "target": 90, 
+            "weight": 0.09645236489128087, 
+            "source": 52, 
+            "sent_messages_count": 4.0, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 3303.0, 
+            "target": 173, 
+            "weight": 0.0525088164079946, 
+            "source": 52, 
+            "sent_messages_count": 152.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 1484.0, 
+            "target": 58, 
+            "weight": 0.376871788687167, 
+            "source": 52, 
+            "sent_messages_count": 68.0, 
+            "call_count": 38
+        }, 
+        {
+            "sent_messages_length": 76507.0, 
+            "target": 129, 
+            "weight": 40.97400733408521, 
+            "source": 52, 
+            "sent_messages_count": 3630.0, 
+            "call_count": 220
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 118, 
+            "weight": 0.046922772109271774, 
+            "source": 52, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 1345.0, 
+            "target": 164, 
+            "weight": 0.09012151468606167, 
+            "source": 52, 
+            "sent_messages_count": 64.0, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": 1832.0, 
+            "target": 138, 
+            "weight": 0.2804194237958861, 
+            "source": 52, 
+            "sent_messages_count": 96.0, 
+            "call_count": 23
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 133, 
+            "weight": 1.3898078215222402, 
+            "source": 52, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 16.0, 
+            "target": 62, 
+            "weight": 0.13629948088883706, 
+            "source": 52, 
+            "sent_messages_count": 1.0, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 149, 
+            "weight": 0.4286357991886652, 
+            "source": 52, 
+            "sent_messages_count": null, 
+            "call_count": 24
+        }, 
+        {
+            "sent_messages_length": 1375.0, 
+            "target": 142, 
+            "weight": 1.5004114986369521, 
+            "source": 53, 
+            "sent_messages_count": 29.0, 
+            "call_count": 116
+        }, 
+        {
+            "sent_messages_length": 6462.0, 
+            "target": 142, 
+            "weight": 0.7950803051848828, 
+            "source": 54, 
+            "sent_messages_count": 137.0, 
+            "call_count": 106
+        }, 
+        {
+            "sent_messages_length": 5610.0, 
+            "target": 185, 
+            "weight": 1.4709916653303454, 
+            "source": 55, 
+            "sent_messages_count": 186.0, 
+            "call_count": 77
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.07559779950938231, 
+            "source": 56, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 142, 
+            "weight": 0.07448059064963773, 
+            "source": 57, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 74, 
+            "weight": 1.1559387668823777, 
+            "source": 59, 
+            "sent_messages_count": null, 
+            "call_count": 88
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.09347314126529536, 
+            "source": 60, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 139, 
+            "weight": 0.10985887120821566, 
+            "source": 63, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 137, 
+            "weight": 0.19513914750205086, 
+            "source": 64, 
+            "sent_messages_count": null, 
+            "call_count": 20
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 243, 
+            "weight": 0.2014699977072701, 
+            "source": 64, 
+            "sent_messages_count": null, 
+            "call_count": 16
+        }, 
+        {
+            "sent_messages_length": 231.0, 
+            "target": 139, 
+            "weight": 0.24504114323730816, 
+            "source": 65, 
+            "sent_messages_count": 13.0, 
+            "call_count": 34
+        }, 
+        {
+            "sent_messages_length": 556.0, 
+            "target": 137, 
+            "weight": 0.054743234127483734, 
+            "source": 66, 
+            "sent_messages_count": 8.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 73.0, 
+            "target": 161, 
+            "weight": 0.06442571091193665, 
+            "source": 68, 
+            "sent_messages_count": 3.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 505.0, 
+            "target": 161, 
+            "weight": 0.15343001673825374, 
+            "source": 70, 
+            "sent_messages_count": 20.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 281.0, 
+            "target": 234, 
+            "weight": 0.05511563708073192, 
+            "source": 71, 
+            "sent_messages_count": 6.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 1521.0, 
+            "target": 100, 
+            "weight": 0.22679339852814692, 
+            "source": 72, 
+            "sent_messages_count": 47.0, 
+            "call_count": 37
+        }, 
+        {
+            "sent_messages_length": 461.0, 
+            "target": 161, 
+            "weight": 0.20519402723975197, 
+            "source": 73, 
+            "sent_messages_count": 18.0, 
+            "call_count": 17
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 212, 
+            "weight": 0.09831437965752181, 
+            "source": 74, 
+            "sent_messages_count": null, 
+            "call_count": 38
+        }, 
+        {
+            "sent_messages_length": 1116.0, 
+            "target": 191, 
+            "weight": 0.21226968335146756, 
+            "source": 74, 
+            "sent_messages_count": 24.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 3358.0, 
+            "target": 129, 
+            "weight": 0.045805563249527205, 
+            "source": 74, 
+            "sent_messages_count": 81.0, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 437.0, 
+            "target": 166, 
+            "weight": 0.5537631914800566, 
+            "source": 74, 
+            "sent_messages_count": 21.0, 
+            "call_count": 70
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 84, 
+            "weight": 0.048784786875512715, 
+            "source": 74, 
+            "sent_messages_count": null, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 251, 
+            "weight": 2.65635026551933, 
+            "source": 74, 
+            "sent_messages_count": null, 
+            "call_count": 218
+        }, 
+        {
+            "sent_messages_length": 3419.0, 
+            "target": 86, 
+            "weight": 1.1965306887864302, 
+            "source": 74, 
+            "sent_messages_count": 137.0, 
+            "call_count": 141
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 85, 
+            "weight": 0.21338689221121213, 
+            "source": 74, 
+            "sent_messages_count": null, 
+            "call_count": 13
+        }, 
+        {
+            "sent_messages_length": 66.0, 
+            "target": 201, 
+            "weight": 0.04990199573525728, 
+            "source": 74, 
+            "sent_messages_count": 2.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 382.0, 
+            "target": 154, 
+            "weight": 0.24653075505030092, 
+            "source": 74, 
+            "sent_messages_count": 9.0, 
+            "call_count": 35
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 211, 
+            "weight": 0.1150725125536903, 
+            "source": 74, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 304.0, 
+            "target": 81, 
+            "weight": 0.1150725125536903, 
+            "source": 76, 
+            "sent_messages_count": 7.0, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 137, 
+            "weight": 0.04729517506251996, 
+            "source": 77, 
+            "sent_messages_count": null, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 303.0, 
+            "target": 127, 
+            "weight": 0.12028615389916494, 
+            "source": 78, 
+            "sent_messages_count": 10.0, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 3824.0, 
+            "target": 109, 
+            "weight": 0.07745981427562325, 
+            "source": 78, 
+            "sent_messages_count": 93.0, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": 62.0, 
+            "target": 126, 
+            "weight": 0.048784786875512715, 
+            "source": 78, 
+            "sent_messages_count": 1.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 22.0, 
+            "target": 238, 
+            "weight": 0.6178164994387451, 
+            "source": 78, 
+            "sent_messages_count": 11.0, 
+            "call_count": 34
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 180, 
+            "weight": 0.10054879737701095, 
+            "source": 78, 
+            "sent_messages_count": null, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": 628.0, 
+            "target": 96, 
+            "weight": 0.09347314126529536, 
+            "source": 79, 
+            "sent_messages_count": 18.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 27790.0, 
+            "target": 137, 
+            "weight": 0.6777733749117034, 
+            "source": 80, 
+            "sent_messages_count": 312.0, 
+            "call_count": 33
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 214, 
+            "weight": 0.13592707793558886, 
+            "source": 81, 
+            "sent_messages_count": null, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 40.0, 
+            "target": 237, 
+            "weight": 0.05846726365996562, 
+            "source": 81, 
+            "sent_messages_count": 1.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 5306.0, 
+            "target": 234, 
+            "weight": 0.06032927842620657, 
+            "source": 82, 
+            "sent_messages_count": 86.0, 
+            "call_count": 12
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.47593097425118513, 
+            "source": 87, 
+            "sent_messages_count": null, 
+            "call_count": 14
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 161, 
+            "weight": 0.2573304406944984, 
+            "source": 88, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 14221.0, 
+            "target": 142, 
+            "weight": 0.1839670589046052, 
+            "source": 89, 
+            "sent_messages_count": 313.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 139, 
+            "weight": 0.26142687318022845, 
+            "source": 91, 
+            "sent_messages_count": null, 
+            "call_count": 25
+        }, 
+        {
+            "sent_messages_length": 507.0, 
+            "target": 161, 
+            "weight": 2.6649155334440384, 
+            "source": 92, 
+            "sent_messages_count": 17.0, 
+            "call_count": 38
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 161, 
+            "weight": 0.07410818769638955, 
+            "source": 93, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 4231.0, 
+            "target": 137, 
+            "weight": 1.1190708745108071, 
+            "source": 94, 
+            "sent_messages_count": 78.0, 
+            "call_count": 87
+        }, 
+        {
+            "sent_messages_length": 1814.0, 
+            "target": 139, 
+            "weight": 1.4006075071664377, 
+            "source": 94, 
+            "sent_messages_count": 35.0, 
+            "call_count": 16
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 185, 
+            "weight": 1.3968834776339558, 
+            "source": 95, 
+            "sent_messages_count": null, 
+            "call_count": 123
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 214, 
+            "weight": 0.09086632059255804, 
+            "source": 96, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 588.0, 
+            "target": 148, 
+            "weight": 0.1839670589046052, 
+            "source": 96, 
+            "sent_messages_count": 12.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 161, 
+            "weight": 0.06032927842620657, 
+            "source": 97, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 129, 
+            "weight": 0.05288121936124279, 
+            "source": 98, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 1352.0, 
+            "target": 151, 
+            "weight": 0.49231670419410545, 
+            "source": 99, 
+            "sent_messages_count": 35.0, 
+            "call_count": 33
+        }, 
+        {
+            "sent_messages_length": 185.0, 
+            "target": 113, 
+            "weight": 0.05325362231449098, 
+            "source": 100, 
+            "sent_messages_count": 5.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 447.0, 
+            "target": 170, 
+            "weight": 0.05064680164175366, 
+            "source": 100, 
+            "sent_messages_count": 14.0, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 174, 
+            "weight": 0.22493138376190597, 
+            "source": 100, 
+            "sent_messages_count": null, 
+            "call_count": 31
+        }, 
+        {
+            "sent_messages_length": 536.0, 
+            "target": 213, 
+            "weight": 0.08974911173281347, 
+            "source": 100, 
+            "sent_messages_count": 10.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 7331.0, 
+            "target": 153, 
+            "weight": 0.4852410480823899, 
+            "source": 100, 
+            "sent_messages_count": 142.0, 
+            "call_count": 31
+        }, 
+        {
+            "sent_messages_length": 263879.0, 
+            "target": 198, 
+            "weight": 34.687100677349285, 
+            "source": 100, 
+            "sent_messages_count": 5757.0, 
+            "call_count": 175
+        }, 
+        {
+            "sent_messages_length": 96.0, 
+            "target": 220, 
+            "weight": 0.10464522986274102, 
+            "source": 100, 
+            "sent_messages_count": 3.0, 
+            "call_count": 14
+        }, 
+        {
+            "sent_messages_length": 221.0, 
+            "target": 209, 
+            "weight": 0.04803998096901634, 
+            "source": 100, 
+            "sent_messages_count": 6.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 587.0, 
+            "target": 142, 
+            "weight": 0.12214816866540588, 
+            "source": 100, 
+            "sent_messages_count": 18.0, 
+            "call_count": 17
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 153, 
+            "weight": 0.07597020246263049, 
+            "source": 102, 
+            "sent_messages_count": null, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 141.0, 
+            "target": 147, 
+            "weight": 0.13145824249661062, 
+            "source": 103, 
+            "sent_messages_count": 7.0, 
+            "call_count": 19
+        }, 
+        {
+            "sent_messages_length": 255.0, 
+            "target": 161, 
+            "weight": 1.1771657352175244, 
+            "source": 104, 
+            "sent_messages_count": 8.0, 
+            "call_count": 30
+        }, 
+        {
+            "sent_messages_length": 3183.0, 
+            "target": 137, 
+            "weight": 0.14523715176679358, 
+            "source": 105, 
+            "sent_messages_count": 54.0, 
+            "call_count": 16
+        }, 
+        {
+            "sent_messages_length": 24118.0, 
+            "target": 139, 
+            "weight": 8.614052711583852, 
+            "source": 105, 
+            "sent_messages_count": 476.0, 
+            "call_count": 277
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 142, 
+            "weight": 0.049529592782009094, 
+            "source": 106, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.27706779721665237, 
+            "source": 107, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 338.0, 
+            "target": 137, 
+            "weight": 0.04468835438978264, 
+            "source": 108, 
+            "sent_messages_count": 4.0, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 67.0, 
+            "target": 126, 
+            "weight": 0.38580945956512347, 
+            "source": 109, 
+            "sent_messages_count": 2.0, 
+            "call_count": 47
+        }, 
+        {
+            "sent_messages_length": 43.0, 
+            "target": 127, 
+            "weight": 0.10278321509650008, 
+            "source": 109, 
+            "sent_messages_count": 1.0, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 193, 
+            "weight": 0.3813406241261452, 
+            "source": 109, 
+            "sent_messages_count": null, 
+            "call_count": 31
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 210, 
+            "weight": 0.12624460115113598, 
+            "source": 109, 
+            "sent_messages_count": null, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 64.0, 
+            "target": 139, 
+            "weight": 0.05883966661321381, 
+            "source": 110, 
+            "sent_messages_count": 2.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 234, 
+            "weight": 0.6963935225741128, 
+            "source": 111, 
+            "sent_messages_count": null, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 137, 
+            "weight": 0.36681690894946584, 
+            "source": 112, 
+            "sent_messages_count": null, 
+            "call_count": 30
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 234, 
+            "weight": 0.27892981198289335, 
+            "source": 112, 
+            "sent_messages_count": null, 
+            "call_count": 15
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 139, 
+            "weight": 0.12922382477712147, 
+            "source": 112, 
+            "sent_messages_count": null, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 142, 
+            "weight": 0.11097608006796023, 
+            "source": 112, 
+            "sent_messages_count": null, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.2234417719489132, 
+            "source": 114, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 4621.0, 
+            "target": 137, 
+            "weight": 0.16646412010194034, 
+            "source": 115, 
+            "sent_messages_count": 79.0, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 139, 
+            "weight": 0.04766757801576815, 
+            "source": 116, 
+            "sent_messages_count": null, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 15146.0, 
+            "target": 137, 
+            "weight": 1.6326145470400593, 
+            "source": 117, 
+            "sent_messages_count": 222.0, 
+            "call_count": 50
+        }, 
+        {
+            "sent_messages_length": 251.0, 
+            "target": 139, 
+            "weight": 0.05995687547295838, 
+            "source": 117, 
+            "sent_messages_count": 7.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 2244.0, 
+            "target": 234, 
+            "weight": 0.43533905234713255, 
+            "source": 119, 
+            "sent_messages_count": 41.0, 
+            "call_count": 33
+        }, 
+        {
+            "sent_messages_length": 51209.0, 
+            "target": 243, 
+            "weight": 0.14486474881354539, 
+            "source": 120, 
+            "sent_messages_count": 1944.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 151, 
+            "weight": 0.046922772109271774, 
+            "source": 121, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 274.0, 
+            "target": 224, 
+            "weight": 0.14523715176679358, 
+            "source": 122, 
+            "sent_messages_count": 11.0, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 1990.0, 
+            "target": 243, 
+            "weight": 0.4416699025523518, 
+            "source": 123, 
+            "sent_messages_count": 64.0, 
+            "call_count": 42
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 142, 
+            "weight": 0.10911406530171928, 
+            "source": 124, 
+            "sent_messages_count": null, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": 1806.0, 
+            "target": 139, 
+            "weight": 0.4848686451291417, 
+            "source": 125, 
+            "sent_messages_count": 51.0, 
+            "call_count": 54
+        }, 
+        {
+            "sent_messages_length": 25.0, 
+            "target": 137, 
+            "weight": 0.10427282690949283, 
+            "source": 128, 
+            "sent_messages_count": 1.0, 
+            "call_count": 6
+        }, 
+        {
+            "sent_messages_length": 2538.0, 
+            "target": 173, 
+            "weight": 0.19327713273580993, 
+            "source": 129, 
+            "sent_messages_count": 106.0, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 160, 
+            "weight": 0.15231280787850918, 
+            "source": 129, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 569.0, 
+            "target": 153, 
+            "weight": 0.11618972141343487, 
+            "source": 129, 
+            "sent_messages_count": 15.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": 229.0, 
+            "target": 133, 
+            "weight": 0.06107408433270294, 
+            "source": 129, 
+            "sent_messages_count": 10.0, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 4265.0, 
+            "target": 243, 
+            "weight": 0.20929045972548205, 
+            "source": 130, 
+            "sent_messages_count": 100.0, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 161, 
+            "weight": 0.7958251110913792, 
+            "source": 131, 
+            "sent_messages_count": null, 
+            "call_count": 26
+        }, 
+        {
+            "sent_messages_length": 2595.0, 
+            "target": 243, 
+            "weight": 0.45284199114979745, 
+            "source": 132, 
+            "sent_messages_count": 71.0, 
+            "call_count": 17
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 159, 
+            "weight": 0.05883966661321381, 
+            "source": 134, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 151, 
+            "weight": 0.14374753995380082, 
+            "source": 135, 
+            "sent_messages_count": null, 
+            "call_count": 16
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 234, 
+            "weight": 0.16981574668117405, 
+            "source": 136, 
+            "sent_messages_count": null, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 139, 
+            "weight": 0.08900430582631709, 
+            "source": 136, 
+            "sent_messages_count": null, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 75.0, 
+            "target": 225, 
+            "weight": 0.15231280787850918, 
+            "source": 137, 
+            "sent_messages_count": 2.0, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 150, 
+            "weight": 0.1351822720290925, 
+            "source": 137, 
+            "sent_messages_count": null, 
+            "call_count": 14
+        }, 
+        {
+            "sent_messages_length": 13106.0, 
+            "target": 172, 
+            "weight": 0.6461191238856073, 
+            "source": 137, 
+            "sent_messages_count": 151.0, 
+            "call_count": 79
+        }, 
+        {
+            "sent_messages_length": 2056.0, 
+            "target": 216, 
+            "weight": 0.3418659110818372, 
+            "source": 137, 
+            "sent_messages_count": 59.0, 
+            "call_count": 29
+        }, 
+        {
+            "sent_messages_length": 172923.0, 
+            "target": 139, 
+            "weight": 3.683437610577834, 
+            "source": 137, 
+            "sent_messages_count": 2419.0, 
+            "call_count": 207
+        }, 
+        {
+            "sent_messages_length": 12335.0, 
+            "target": 233, 
+            "weight": 1.0229909125727743, 
+            "source": 137, 
+            "sent_messages_count": 187.0, 
+            "call_count": 51
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 236, 
+            "weight": 0.05325362231449098, 
+            "source": 137, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 12.0, 
+            "target": 185, 
+            "weight": 0.05772245775346924, 
+            "source": 138, 
+            "sent_messages_count": 1.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 645.0, 
+            "target": 183, 
+            "weight": 0.06777733749117035, 
+            "source": 139, 
+            "sent_messages_count": 15.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 221, 
+            "weight": 1.6959230490922512, 
+            "source": 139, 
+            "sent_messages_count": null, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 1571.0, 
+            "target": 241, 
+            "weight": 0.34372792584807815, 
+            "source": 139, 
+            "sent_messages_count": 38.0, 
+            "call_count": 37
+        }, 
+        {
+            "sent_messages_length": 1855.0, 
+            "target": 147, 
+            "weight": 0.10464522986274102, 
+            "source": 139, 
+            "sent_messages_count": 50.0, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 180, 
+            "weight": 0.19737356522154, 
+            "source": 139, 
+            "sent_messages_count": null, 
+            "call_count": 15
+        }, 
+        {
+            "sent_messages_length": 2181.0, 
+            "target": 197, 
+            "weight": 0.3850646536586271, 
+            "source": 139, 
+            "sent_messages_count": 47.0, 
+            "call_count": 35
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 249, 
+            "weight": 0.5224813434072088, 
+            "source": 139, 
+            "sent_messages_count": null, 
+            "call_count": 30
+        }, 
+        {
+            "sent_messages_length": 1991.0, 
+            "target": 168, 
+            "weight": 0.11544491550693849, 
+            "source": 139, 
+            "sent_messages_count": 43.0, 
+            "call_count": 21
+        }, 
+        {
+            "sent_messages_length": 24.0, 
+            "target": 169, 
+            "weight": 0.04729517506251996, 
+            "source": 139, 
+            "sent_messages_count": 1.0, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": 6690.0, 
+            "target": 172, 
+            "weight": 1.7320461355573256, 
+            "source": 139, 
+            "sent_messages_count": 178.0, 
+            "call_count": 83
+        }, 
+        {
+            "sent_messages_length": 981.0, 
+            "target": 151, 
+            "weight": 0.5235985522669533, 
+            "source": 140, 
+            "sent_messages_count": 35.0, 
+            "call_count": 19
+        }, 
+        {
+            "sent_messages_length": 1698.0, 
+            "target": 142, 
+            "weight": 0.5597216387320276, 
+            "source": 141, 
+            "sent_messages_count": 60.0, 
+            "call_count": 56
+        }, 
+        {
+            "sent_messages_length": 5324.0, 
+            "target": 173, 
+            "weight": 0.1050176328159892, 
+            "source": 142, 
+            "sent_messages_count": 146.0, 
+            "call_count": 12
+        }, 
+        {
+            "sent_messages_length": 12993.0, 
+            "target": 170, 
+            "weight": 2.42806725517819, 
+            "source": 142, 
+            "sent_messages_count": 272.0, 
+            "call_count": 78
+        }, 
+        {
+            "sent_messages_length": 14832.0, 
+            "target": 153, 
+            "weight": 1.0710308935417907, 
+            "source": 142, 
+            "sent_messages_count": 312.0, 
+            "call_count": 60
+        }, 
+        {
+            "sent_messages_length": 234836.0, 
+            "target": 242, 
+            "weight": 6.048941169610329, 
+            "source": 142, 
+            "sent_messages_count": 3984.0, 
+            "call_count": 146
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 200, 
+            "weight": 0.12922382477712147, 
+            "source": 142, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 4960.0, 
+            "target": 246, 
+            "weight": 0.06591532272492939, 
+            "source": 142, 
+            "sent_messages_count": 112.0, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": 773.0, 
+            "target": 203, 
+            "weight": 0.06181889023919932, 
+            "source": 142, 
+            "sent_messages_count": 20.0, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 681.0, 
+            "target": 234, 
+            "weight": 0.04841238392226453, 
+            "source": 143, 
+            "sent_messages_count": 11.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 2386.0, 
+            "target": 161, 
+            "weight": 4.25172451723457, 
+            "source": 144, 
+            "sent_messages_count": 57.0, 
+            "call_count": 17
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 161, 
+            "weight": 0.06070168137945475, 
+            "source": 145, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.11805173617967582, 
+            "source": 146, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 207, 
+            "weight": 0.11618972141343487, 
+            "source": 147, 
+            "sent_messages_count": null, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 221, 
+            "weight": 0.11060367711471204, 
+            "source": 147, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 350.0, 
+            "target": 168, 
+            "weight": 0.07745981427562325, 
+            "source": 147, 
+            "sent_messages_count": 12.0, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": 491.0, 
+            "target": 202, 
+            "weight": 0.04543316029627902, 
+            "source": 147, 
+            "sent_messages_count": 17.0, 
+            "call_count": 11
+        }, 
+        {
+            "sent_messages_length": 22.0, 
+            "target": 226, 
+            "weight": 1.756624730471706, 
+            "source": 151, 
+            "sent_messages_count": 1.0, 
+            "call_count": 50
+        }, 
+        {
+            "sent_messages_length": 1886.0, 
+            "target": 184, 
+            "weight": 3.633163211889329, 
+            "source": 151, 
+            "sent_messages_count": 82.0, 
+            "call_count": 72
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 152, 
+            "weight": 0.10576243872248559, 
+            "source": 151, 
+            "sent_messages_count": null, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": 152.0, 
+            "target": 171, 
+            "weight": 0.06181889023919932, 
+            "source": 151, 
+            "sent_messages_count": 4.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 190, 
+            "weight": 7.699058655453053, 
+            "source": 151, 
+            "sent_messages_count": null, 
+            "call_count": 24
+        }, 
+        {
+            "sent_messages_length": 190.0, 
+            "target": 189, 
+            "weight": 0.05846726365996562, 
+            "source": 151, 
+            "sent_messages_count": 7.0, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 414.0, 
+            "target": 196, 
+            "weight": 0.369051326668955, 
+            "source": 151, 
+            "sent_messages_count": 11.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 3612.0, 
+            "target": 162, 
+            "weight": 0.2167385187904458, 
+            "source": 151, 
+            "sent_messages_count": 112.0, 
+            "call_count": 8
+        }, 
+        {
+            "sent_messages_length": 695.0, 
+            "target": 231, 
+            "weight": 0.7988043347173648, 
+            "source": 151, 
+            "sent_messages_count": 34.0, 
+            "call_count": 33
+        }, 
+        {
+            "sent_messages_length": 22.0, 
+            "target": 177, 
+            "weight": 0.8475891215928775, 
+            "source": 151, 
+            "sent_messages_count": 1.0, 
+            "call_count": 34
+        }, 
+        {
+            "sent_messages_length": 407.0, 
+            "target": 195, 
+            "weight": 1.0121912269285769, 
+            "source": 151, 
+            "sent_messages_count": 15.0, 
+            "call_count": 26
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 215, 
+            "weight": 0.17577419393314506, 
+            "source": 151, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 173, 
+            "weight": 1.0371422247962054, 
+            "source": 153, 
+            "sent_messages_count": null, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 86248.0, 
+            "target": 159, 
+            "weight": 2.1107799390107336, 
+            "source": 155, 
+            "sent_messages_count": 1550.0, 
+            "call_count": 162
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 161, 
+            "weight": 0.29121910944008356, 
+            "source": 157, 
+            "sent_messages_count": null, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 114.0, 
+            "target": 198, 
+            "weight": 0.3455899406143191, 
+            "source": 158, 
+            "sent_messages_count": 3.0, 
+            "call_count": 20
+        }, 
+        {
+            "sent_messages_length": 215.0, 
+            "target": 205, 
+            "weight": 0.13965110746807075, 
+            "source": 159, 
+            "sent_messages_count": 3.0, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": 10217.0, 
+            "target": 255, 
+            "weight": 1.4646608151251261, 
+            "source": 159, 
+            "sent_messages_count": 261.0, 
+            "call_count": 59
+        }, 
+        {
+            "sent_messages_length": 2959.0, 
+            "target": 208, 
+            "weight": 0.7012347609663393, 
+            "source": 159, 
+            "sent_messages_count": 83.0, 
+            "call_count": 51
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 206, 
+            "weight": 0.04990199573525728, 
+            "source": 161, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 180, 
+            "weight": 0.20817325086573749, 
+            "source": 161, 
+            "sent_messages_count": null, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": 705.0, 
+            "target": 165, 
+            "weight": 2.0679535993871916, 
+            "source": 161, 
+            "sent_messages_count": 33.0, 
+            "call_count": 100
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 214, 
+            "weight": 0.48002740673691524, 
+            "source": 161, 
+            "sent_messages_count": null, 
+            "call_count": 24
+        }, 
+        {
+            "sent_messages_length": 2986.0, 
+            "target": 254, 
+            "weight": 0.05288121936124279, 
+            "source": 161, 
+            "sent_messages_count": 72.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 1727.0, 
+            "target": 199, 
+            "weight": 0.7090552229845513, 
+            "source": 161, 
+            "sent_messages_count": 67.0, 
+            "call_count": 36
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.7492747419353556, 
+            "source": 163, 
+            "sent_messages_count": null, 
+            "call_count": 57
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 243, 
+            "weight": 0.13108583954336242, 
+            "source": 167, 
+            "sent_messages_count": null, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 179, 
+            "weight": 0.48263422740965256, 
+            "source": 176, 
+            "sent_messages_count": null, 
+            "call_count": 28
+        }, 
+        {
+            "sent_messages_length": 4240.0, 
+            "target": 243, 
+            "weight": 0.37054093848194775, 
+            "source": 178, 
+            "sent_messages_count": 83.0, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 217, 
+            "weight": 0.05139160754825004, 
+            "source": 179, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 180, 
+            "weight": 0.7891218579329118, 
+            "source": 179, 
+            "sent_messages_count": null, 
+            "call_count": 10
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 243, 
+            "weight": 0.12214816866540588, 
+            "source": 180, 
+            "sent_messages_count": null, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 185, 
+            "weight": 0.13629948088883706, 
+            "source": 180, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 1137.0, 
+            "target": 243, 
+            "weight": 1.2680320558100824, 
+            "source": 182, 
+            "sent_messages_count": 46.0, 
+            "call_count": 107
+        }, 
+        {
+            "sent_messages_length": 2909.0, 
+            "target": 244, 
+            "weight": 0.1478439724395309, 
+            "source": 185, 
+            "sent_messages_count": 88.0, 
+            "call_count": 7
+        }, 
+        {
+            "sent_messages_length": 241.0, 
+            "target": 230, 
+            "weight": 0.06517051681843301, 
+            "source": 185, 
+            "sent_messages_count": 7.0, 
+            "call_count": 3
+        }, 
+        {
+            "sent_messages_length": 1125.0, 
+            "target": 243, 
+            "weight": 0.13853389860832618, 
+            "source": 187, 
+            "sent_messages_count": 29.0, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 224, 
+            "weight": 0.10129360328350732, 
+            "source": 192, 
+            "sent_messages_count": null, 
+            "call_count": 5
+        }, 
+        {
+            "sent_messages_length": 126341.0, 
+            "target": 234, 
+            "weight": 13.819128789133785, 
+            "source": 194, 
+            "sent_messages_count": 2308.0, 
+            "call_count": 162
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 243, 
+            "weight": 0.10017639442376276, 
+            "source": 219, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 2187.0, 
+            "target": 234, 
+            "weight": 0.7891218579329118, 
+            "source": 227, 
+            "sent_messages_count": 49.0, 
+            "call_count": 37
+        }, 
+        {
+            "sent_messages_length": 626.0, 
+            "target": 243, 
+            "weight": 0.09310073831204717, 
+            "source": 228, 
+            "sent_messages_count": 11.0, 
+            "call_count": 9
+        }, 
+        {
+            "sent_messages_length": 2776.0, 
+            "target": 234, 
+            "weight": 0.10129360328350732, 
+            "source": 233, 
+            "sent_messages_count": 43.0, 
+            "call_count": 4
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 256, 
+            "weight": 0.3370246726896108, 
+            "source": 234, 
+            "sent_messages_count": null, 
+            "call_count": 16
+        }, 
+        {
+            "sent_messages_length": 97.0, 
+            "target": 235, 
+            "weight": 0.1675813289616849, 
+            "source": 234, 
+            "sent_messages_count": 2.0, 
+            "call_count": 15
+        }, 
+        {
+            "sent_messages_length": null, 
+            "target": 253, 
+            "weight": 0.06963935225741129, 
+            "source": 243, 
+            "sent_messages_count": null, 
+            "call_count": 2
+        }, 
+        {
+            "sent_messages_length": 832.0, 
+            "target": 252, 
+            "weight": 0.10166600623675551, 
+            "source": 243, 
+            "sent_messages_count": 32.0, 
+            "call_count": 8
+        }
+    ], 
+    "multigraph": false
+}
